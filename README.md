@@ -1,2 +1,2 @@
-# deltas
-Repository for the delta group at the 2022 CSS.
+# Deltas
+Repository for the delta group at the 2022 CSS. Our group is interested in understanding how upstream damming influences delta development via chanegs to sediment composition and hydrograph shape. To answer this phenomenon we are utilizing pyDeltaRCM, a python based implmement of the delta reduced complexity model. We will then create a tutorial notebook for students to reproduce our results.
